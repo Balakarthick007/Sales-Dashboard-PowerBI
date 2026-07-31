@@ -1,6 +1,6 @@
 # 📊 E-Commerce Sales Dashboard
 
-An interactive Power BI dashboard built to analyze e-commerce sales performance using SQL Server, Excel, and Power BI.
+An interactive Power BI dashboard built to analyze E-commerce sales performance using SQL Server, Excel, and Power BI.
 
 ---
 
